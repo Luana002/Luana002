@@ -4,7 +4,7 @@
 </a>
 </div>
 
-<p align="center">Sou estudante, no momento estou tentando entrar no curso da analise e desenvolvimento de sistemas, e estou tentando</p>
+<p align="center">Sou uma simples estudante entrando no ramo da tecnologia</p>
 
 #
 
@@ -22,9 +22,9 @@
 
 <img align="right" alt="" height="250px" src="https://i.pinimg.com/564x/b5/96/e3/b596e370fb7afb7ab6537bb18868d385.jpg">
 
-<h3 align="left">My Stack ~</h3>
+<h3 align="left 50px">My Stack ~</h3>
 
- <div align="left">
+ <div align="left 50px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
@@ -35,18 +35,19 @@
 
  #
 
-<h3 align="left">Connect with me!</h3>
+<h3 align="left 50px">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](correaluana623@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)]( https://github.com/Luana002 )
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](bluee.code)
 
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luana002/Luana002/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Luana002/Luana002/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Luana002/Luana002/output/github-contribution-grid-snake.svg">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
 </picture>
+
 
 <!---
 Luana002/Luana002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
