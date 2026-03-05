@@ -69,3 +69,7 @@
 </picture>
 
 ###
+
+<img src="https://raw.githubusercontent.com/Luana002/Luana002/output/snake.svg" alt="Snake animation" />
+
+###
