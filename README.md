@@ -8,7 +8,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Luana002&locale=pt-br&mode=daily&theme=blueberry&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luana002&area=true&hide_border=true&hide_title=true&theme=redical" height="150" alt="activity-graph graph"  />
 </div>
 
 ###
